@@ -1,0 +1,40 @@
+html {
+  background-size:auto;
+  font-family:monospace, "helvetica" ;
+  color:rgb(0, 255, 0)
+}
+ .family  {
+        font-weight:bold;
+        color:rgb(255, 153, 51);
+        background-color: rgb(102, 178, 200);
+ }
+ .post {    
+         color:rgb(255, 255, 255);
+         background-color:rgb(255, 0, 0) ;
+ }
+
+ h1, h2 {
+     font-weight:bold ;   
+     font: italic ;
+     background-color:red
+     color:green
+                  
+ }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: left;
+   color:white
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+p {
+ color:blue
+}
