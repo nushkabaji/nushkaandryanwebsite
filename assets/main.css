@@ -1,12 +1,13 @@
 html {
-  background-size:auto;
-  font-family:monospace, "helvetica" ;
-  color:rgb(0, 255, 0);
-  min-height: 100%;
+    background-size:auto;
+    min-height: 100%;
    background-image: url("IMG-6137.JPG");
    background-size: cover;
    background-repeat: no-repeat;
    background-position: center center;
+}
+html {
+  font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5667px; 
 }
  .family  {
         font-weight:bold;
@@ -37,6 +38,4 @@ a {
 p {
  color:blue;
 }
-html {
-  font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Copperplate, Copperplate Gothic Light, fantasy; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5667px; 
-}
+
