@@ -2,7 +2,11 @@ html {
   background-size:auto;
   font-family:monospace, "helvetica" ;
   color:rgb(0, 255, 0);
-  background-image: url("/assets/IMG-6137.JPG");
+  min-height: 100%;
+   background-image: url("IMG-6137.JPG");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
 }
  .family  {
         font-weight:bold;
@@ -17,8 +21,8 @@ html {
  h1, h2 {
      font-weight:bold ;   
      font: italic ;
-     background-color:red
-     color:green
+     background-color:red;
+     color:green;
                   
  }
 ul {
@@ -28,7 +32,7 @@ ul {
 }
 li {
   float: left;
-   color:white
+   color:white;
 }
 
 a {
@@ -37,5 +41,5 @@ a {
   background-color: #dddddd;
 }
 p {
- color:blue
+ color:blue;
 }
